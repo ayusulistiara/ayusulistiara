@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, i'm Ayu Sulistiara :raising_hand:
+- :school: I’m currently studying for a degree in Mathematics at Jenderal Soedirman University
+- :chart_with_upwards_trend: I’m new to machine learning and data analytics
+- :mag_right: I’m looking for a job
+- :e-mail: You can reach me at ayu.sulistiara89@gmail.com
+
 
 <!--
 **ayusulistiara/ayusulistiara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
