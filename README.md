@@ -1,5 +1,5 @@
 ### Hello, i'm Ayu Sulistiara :raising_hand:
-- :school: I’m fresh graduate of Mathematics from Jenderal Soedirman University
+- :school: I’m a fresh graduate of Mathematics from Jenderal Soedirman University
 - :chart_with_upwards_trend: I’m new to machine learning and data analytics
 - :mag_right: I’m looking for a job
 - :e-mail: You can reach me at ayu.sulistiara89@gmail.com
